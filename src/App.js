@@ -8,6 +8,13 @@ function MyButton() {
   );
 }
 
+const theList = [
+  { title: 'Water', id: 1},
+  { title: 'Flour', id: 2},
+  { title: 'Starter', id: 3}
+  { title: 'Salt', id: 4},
+];
+
 export default function App() {
   return (
     <div className="App">
