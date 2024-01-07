@@ -37,7 +37,7 @@ export default function App() {
       <MyButton />
 
       <h2>Here are the ingredients for sourdough:</h2>
-
+      <Sourdough />
     </div>
   );
 }
