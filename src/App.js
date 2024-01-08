@@ -1,6 +1,8 @@
 import './App.css';
 import { useState } from 'react';
 
+// TODO: find best alternatives to make in this crazy world
+
 // My button
 function MyButtons(val) {
   const [count, setCount] = useState(0);
